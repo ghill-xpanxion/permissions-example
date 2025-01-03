@@ -1,0 +1,11 @@
+{
+  "name": "permissions-test",
+  "packageManager": "yarn@4.2.2",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
